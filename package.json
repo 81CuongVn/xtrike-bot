@@ -22,7 +22,7 @@
     "fuse.js": "^6.4.6",
     "get-pixels": "^3.3.3",
     "image-hash": "^4.0.1",
-    "mongoose": "^6.0.12",
+    "mongoose": "^6.4.6",
     "node-fetch": "^2",
     "nodemon": "^2.0.14",
     "serialize-error": "^8",
